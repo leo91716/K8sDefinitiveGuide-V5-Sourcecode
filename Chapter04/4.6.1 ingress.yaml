@@ -205,6 +205,6 @@ spec:
 
 
 
-curl --resolve mywebsite.com:80:192.168.18.3 http://mywebsite.com/demo/
+#curl --resolve mywebsite.com:80:192.168.18.3 http://mywebsite.com/demo/
 
-curl -H 'Host:mywebsite.com' http://192.168.18.3/demo/
+#curl -H 'Host:mywebsite.com' http://192.168.18.3/demo/
